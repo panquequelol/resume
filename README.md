@@ -29,6 +29,16 @@ Software Developer @ America Transparente Foundation (3.5 months)
 Volunteer Software Developer @ Kellun (2 months)
 - Began the development of a dashboard for business to measure their impact on social causes through donations and volunteering, collaborated with a designer to build the onboarding and main components.
 
+## Awards
+
+#1 place at an international challenge to help refugees of the Russian invasion of Ukraine.#1 place at an international challenge to help refugees of the Russian invasion of Ukraine. 
+
+- Led a team of 5 developers in winning first place and a $3,000 prize in an international challenge aimed at aiding Ukraine. Developed a platform that helps refugees locate suitable accommodation options around the world.
+
+English Language and Cultural Exchange program in New Zealand.English Language and Cultural Exchange program in New Zealand.
+
+- Selected as one of 40 students for an exchange program sponsored by the Embassy of New Zealand; the Minister of Māori Development visited Chile to meet the participants.
+
 ## Education
 
 - Software Development @ Coding Dojo Bootcamp, Latin America Cohort.
