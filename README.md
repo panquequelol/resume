@@ -10,10 +10,10 @@ Frontend developer from southern Chile, interested in working with bleeding edge
 
 ## Experience
 
-Co-founder @ unnamed startup (april 2023 to Present)
+Co-founder @ unnamed startup (April 2023 to Present)
 - Building a startup in the restaurant industry. 
 
-Founding Member @ Open Source USACH (Jan 2023 to Present)
+Founding Member @ Open Source USACH (January 2023 to Present)
 - Creating a community for students to collaborate on open-source projects and learn in the process.
 
 Software Engineer @ Forpay (3 months)
