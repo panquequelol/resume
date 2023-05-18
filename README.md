@@ -4,8 +4,8 @@ Frontend developer from southern Chile, interested in working with bleeding edge
 
 ## Skills
 
-- Languages: JavaScript, TypeScript, Python (basic)
-- Frontend: React, Next.js, Tailwind CSS, Jotai, HTML, CSS
+- Languages: JavaScript, TypeScript, Python
+- Frontend: React, Next.js, Astro, Tailwind CSS, Jotai, Tanstack Query
 - Backend: Hono, Cloudflare Workers, SQL (basic)
 
 ## Experience
