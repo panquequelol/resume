@@ -42,4 +42,5 @@ English Language and Cultural Exchange program in New Zealand.
 ## Education
 
 - Software Development @ Coding Dojo Bootcamp, Latin America Cohort.
+- BSc, Computer Science (Unfinished) @ University of Santiago, Chile.
 - English Language @ Whangarei Boys' High School, New Zealand.
