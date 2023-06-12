@@ -1,5 +1,5 @@
 # René Cáceres
-Contact: holarenecaceres[at]gmail.com
+**email:** holarenecaceres[at]gmail.com
 
 Frontend developer from southern Chile, interested in working with bleeding edge technologies and open source.
 
