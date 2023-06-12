@@ -9,8 +9,10 @@ Frontend developer from southern Chile, interested in working with bleeding edge
 - Backend: Hono, Cloudflare Workers, SQL (basic)
 
 ## Experience
+Frontend Engineer @ Buho (June 2023 to Present)
+- Building UI for a medicine marketplace.
 
-Co-founder @ unnamed startup (April 2023 to Present)
+Co-founder @ Gotter (April 2023 to Present)
 - Building a startup in the restaurant industry. 
 
 Founding Member @ Open Source USACH (January 2023 to Present)
